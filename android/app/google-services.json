@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "253279311778",
+    "firebase_url": "https://muhammadnandauts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "muhammadnandauts",
+    "storage_bucket": "muhammadnandauts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253279311778:android:47fca2a9934845b11b04fb",
+        "android_client_info": {
+          "package_name": "com.example.muhammadnanda_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6W9zrmrw5jpdGw4YqDyvFkGbtTYzm4-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,208 @@
+{
+  "dataprovinsi": [
+    {
+      "ibukota": "Banda Aceh",
+      "id": 1,
+      "luas_km2": 57956,
+      "provinsi": "Aceh"
+    },
+    {
+      "ibukota": "Medan",
+      "id": 2,
+      "luas_km2": 72981.23,
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "ibukota": "Padang",
+      "id": 3,
+      "luas_km2": 42012.89,
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "ibukota": "Pekanbaru",
+      "id": 4,
+      "luas_km2": 87023.66,
+      "provinsi": "Riau"
+    },
+    {
+      "ibukota": "Jambi",
+      "id": 5,
+      "luas_km2": 50058.16,
+      "provinsi": "Jambi"
+    },
+    {
+      "ibukota": "Palembang",
+      "id": 6,
+      "luas_km2": 91592.43,
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "ibukota": "Bengkulu",
+      "id": 7,
+      "luas_km2": 19919.33,
+      "provinsi": "Bengkulu"
+    },
+    {
+      "ibukota": "Bandar Lampung",
+      "id": 8,
+      "luas_km2": 34623.8,
+      "provinsi": "Lampung"
+    },
+    {
+      "ibukota": "Pangkal Pinang",
+      "id": 9,
+      "luas_km2": 16424.06,
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "ibukota": "Tanjung Pinang",
+      "id": 10,
+      "luas_km2": 8201.72,
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "ibukota": "Jakarta",
+      "id": 11,
+      "luas_km2": 664.01,
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "ibukota": "Bandung",
+      "id": 12,
+      "luas_km2": 35377.76,
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "ibukota": "Semarang",
+      "id": 13,
+      "luas_km2": 32800.69,
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "ibukota": "Yogyakarta",
+      "id": 14,
+      "luas_km2": 3133.15,
+      "provinsi": "DI Yogyakarta"
+    },
+    {
+      "ibukota": "Surabaya",
+      "id": 15,
+      "luas_km2": 47799.75,
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "ibukota": "Serang",
+      "id": 16,
+      "luas_km2": 9662.92,
+      "provinsi": "Banten"
+    },
+    {
+      "ibukota": "Denpasar",
+      "id": 17,
+      "luas_km2": 5780.06,
+      "provinsi": "Bali"
+    },
+    {
+      "ibukota": "Mataram",
+      "id": 18,
+      "luas_km2": 18572.32,
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "ibukota": "Kupang",
+      "id": 19,
+      "luas_km2": 48718.1,
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "ibukota": "Pontianak",
+      "id": 20,
+      "luas_km2": 147307,
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "ibukota": "Palangka Raya",
+      "id": 21,
+      "luas_km2": 153564.5,
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "ibukota": "Banjarmasin",
+      "id": 22,
+      "luas_km2": 38744.23,
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "ibukota": "Samarinda",
+      "id": 23,
+      "luas_km2": 129066.64,
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "ibukota": "Tanjung Selor",
+      "id": 24,
+      "luas_km2": 75467.7,
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "ibukota": "Manado",
+      "id": 25,
+      "luas_km2": 13851.64,
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "ibukota": "Palu",
+      "id": 26,
+      "luas_km2": 61841.29,
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "ibukota": "Makassar",
+      "id": 27,
+      "luas_km2": 46717.48,
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "ibukota": "Kendari",
+      "id": 28,
+      "luas_km2": 38067.7,
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "ibukota": "Gorontalo",
+      "id": 29,
+      "luas_km2": 11257.07,
+      "provinsi": "Gorontalo"
+    },
+    {
+      "ibukota": "Mamuju",
+      "id": 30,
+      "luas_km2": 16787.18,
+      "provinsi": "Sulawesi Barat"
+    },
+    {
+      "ibukota": "Ambon",
+      "id": 31,
+      "luas_km2": 46914.03,
+      "provinsi": "Maluku"
+    },
+    {
+      "ibukota": "Sofifi",
+      "id": 32,
+      "luas_km2": 31982.5,
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "ibukota": "Manokwari",
+      "id": 33,
+      "luas_km2": 99671.63,
+      "provinsi": "Papua Barat"
+    },
+    {
+      "ibukota": "Jayapura",
+      "id": 34,
+      "luas_km2": 319036.05,
+      "provinsi": "Papua"
+    }
+  ]
+}

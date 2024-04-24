@@ -1,0 +1,29 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "muhammadnandauts",
+          "appId": "1:253279311778:android:47fca2a9934845b11b04fb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "muhammadnandauts",
+          "configurations": {
+            "android": "1:253279311778:android:47fca2a9934845b11b04fb",
+            "web": "1:253279311778:web:2379422477d574971b04fb"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
